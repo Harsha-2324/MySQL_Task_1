@@ -11,7 +11,6 @@
 - **Collection of SQL Bolt Lessons and Exercises**
 - `https://sqlbolt.com/` is used to complete the Task.
 
-###
 
 <h2 align="left">Programming Language Used :</h2>
 

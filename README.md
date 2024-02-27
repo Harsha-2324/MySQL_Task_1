@@ -16,5 +16,5 @@
 <div align="left">
   <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" height="100" alt="html5 logo"  />
   <img width="50" />
-  </div>\
+  </div>
   ---
